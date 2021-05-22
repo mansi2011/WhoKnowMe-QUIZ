@@ -6,4 +6,4 @@ this app consist of questions based on myself and the score will define how well
 
 I Enjoyed the journey while making the project.
 
-please check out the URL : 
+please check out the URL : https://replit.com/@mansi2011/WhoKnowMe?embed=1&output=1
